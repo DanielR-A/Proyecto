@@ -1,0 +1,45 @@
+{
+    "Ropa": [
+        {
+            "clasificacion": "playa",
+            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/ShortsAzul.jpg",
+            "nombre": "Zayin Short Azul",
+            "precio": 5.95
+        },
+        {
+            "clasificacion": "playa",
+            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/Shorts.jpg",
+            "nombre": "Zayin Shorts",
+            "precio": 6.95
+            
+        },
+        {
+            "clasificacion": "playa",
+            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/Shorts%20Cafes.jpg",
+            "nombre": "Crab Cake",
+            "precio": 7.95
+        },
+        {
+            "clasificacion": "playa",
+            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/Shorts%20Negros.jpg",
+            "nombre": "Zayin Short Negos",
+            "precio": 8.95
+        },
+        {
+            "clasificacion": "playa",
+            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/Shorts%20Blancos.jpg",
+            "nombre": "Zayin Short Blancos",
+            "precio": 9.95
+        },
+     
+
+        {
+            "clasificacion": "playa",
+            "imagen": "img/ensalada-rusa.jpg",
+            "nombre": "Ensalada Rusa",
+            "precio": 3.15
+        }
+
+    
+   ]
+}
