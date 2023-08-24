@@ -2,32 +2,32 @@
     "Ropa": [
         {
             "clasificacion": "playa",
-            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/ShortsAzul.jpg",
+            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/ShortsAzul.jpg?raw=true",
             "nombre": "Zayin Short Azul",
             "precio": 5.95
         },
         {
             "clasificacion": "playa",
-            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/Shorts.jpg",
+            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/ShortsAzul.jpg?raw=true",
             "nombre": "Zayin Shorts",
             "precio": 6.95
             
         },
         {
             "clasificacion": "playa",
-            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/Shorts%20Cafes.jpg",
+            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true",
             "nombre": "Crab Cake",
             "precio": 7.95
         },
         {
             "clasificacion": "playa",
-            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/Shorts%20Negros.jpg",
+            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true",
             "nombre": "Zayin Short Negos",
             "precio": 8.95
         },
         {
             "clasificacion": "playa",
-            "imagen": "https://github.com/DanielR-A/ConsumoApi/blob/main/Consumo/img/Shorts%20Blancos.jpg",
+            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Blancos.jpg?raw=true",
             "nombre": "Zayin Short Blancos",
             "precio": 9.95
         },
