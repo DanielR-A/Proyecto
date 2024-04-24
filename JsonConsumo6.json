@@ -2,14 +2,14 @@
     "Ropa": [
         {
             "clasificacion": "Prente al Mar",
-            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/ShortsAzul.jpg?raw=true",
+            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/LMC1..jpeg?raw=true",
             "nombre": "LMCl",
             "precio": 5.95
         },
         
         {
             "clasificacion": "Frente al Mar",
-            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Blancos.jpg?raw=true",
+            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/LMC2.jpg?raw=true",
             "nombre": "LMC2",
             "precio": 9.95
         }
