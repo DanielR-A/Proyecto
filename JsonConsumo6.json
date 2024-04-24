@@ -4,13 +4,13 @@
 "clasificacion": " LMC1 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC1.jpg?raw=true ",
 "nombre" : " Zayin Short Azul ",
-"precio" : 5.95
+"precio" : 4.000
 },
 {
 "clasificacion": " LMC2 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC2.jpg?raw=true ",
 "nombre" : " Zayin Shorts ",
-"precio": 6.95
+"precio": 2.000
             
 },
 {
@@ -21,13 +21,13 @@
 },
 {
 "clasificacion": " playaa ",
-"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true ",
+"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC4.png?raw=true ",
 "nombre" : " Zayin Short Negos ",
 "precio": 2.000
 },
 {
 "clasificacion": " playaa ",
-"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Blancos.jpg?raw=true ",
+"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC4.png?raw=true ",
 "nombre" : " Zayin Short Blancos ",
 "precio" : 4.000
 }
