@@ -12,26 +12,7 @@
 "nombre" : " LMC2 ",
 "precio": 6.95
             
-},
-{
-"clasificacion": " playaa ",
-"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true ",
-"nombre" : " Pastel de Cangrejo ",
-"precio": 7.95
-},
-{
-"clasificacion": " playaa ",
-"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true ",
-"nombre" : " Zayin Short Negos ",
-"precio": 8.95
-},
-{
-"clasificacion": " playaa ",
-"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Blancos.jpg?raw=true ",
-"nombre" : " Zayin Short Blancos ",
-"precio" : 9.95
 }
-
-    
+  
 ]
 }
