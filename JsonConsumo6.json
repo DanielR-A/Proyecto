@@ -1,18 +1,37 @@
 {
-    "Ropa": [
-        {
-            "clasificacion": "Prente al Mar",
-            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/LMC1..jpeg?raw=true",
-            "nombre": "LMCl",
-            "precio": 5.95
-        },
-        
-        {
-            "clasificacion": "Frente al Mar",
-            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/LMC2.jpg?raw=true",
-            "nombre": "LMC2",
-            "precio": 9.95
-        }
+"Ropa": [
+{
+"clasificacion": " playaa ",
+"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/ShortsAzul.jpg?raw=true ",
+"nombre" : " Zayin Short Azul ",
+"precio" : 5.95
+},
+{
+"clasificacion": " playaa ",
+"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/ShortsAzul.jpg?raw=true ",
+"nombre" : " Zayin Shorts ",
+"precio": 6.95
+            
+},
+{
+"clasificacion": " playaa ",
+"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true ",
+"nombre" : " Pastel de Cangrejo ",
+"precio": 7.95
+},
+{
+"clasificacion": " playaa ",
+"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true ",
+"nombre" : " Zayin Short Negos ",
+"precio": 8.95
+},
+{
+"clasificacion": " playaa ",
+"imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Blancos.jpg?raw=true ",
+"nombre" : " Zayin Short Blancos ",
+"precio" : 9.95
+}
+
     
-   ]
+]
 }
