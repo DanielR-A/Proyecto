@@ -1,37 +1,20 @@
 {
     "Ropa": [
         {
-            "clasificacion": "playa",
+            "clasificacion": "Prente al Mar",
             "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/ShortsAzul.jpg?raw=true",
-            "nombre": "Zayin Short Azul",
+            "nombre": "LMCl",
             "precio": 5.95
         },
+        
+    
+       
         {
-            "clasificacion": "playa",
-            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/ShortsAzul.jpg?raw=true",
-            "nombre": "Zayin Shorts",
-            "precio": 6.95
-            
-        },
-        {
-            "clasificacion": "playa",
-            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true",
-            "nombre": "Crab Cake",
-            "precio": 7.95
-        },
-        {
-            "clasificacion": "playa",
-            "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Cafes.jpg?raw=true",
-            "nombre": "Zayin Short Negos",
-            "precio": 8.95
-        },
-        {
-            "clasificacion": "playa",
+            "clasificacion": "Frente al Mar",
             "imagen": "https://github.com/DanielR-A/Proyecto/blob/main/img/Shorts%20Blancos.jpg?raw=true",
-            "nombre": "Zayin Short Blancos",
+            "nombre": "LMC2",
             "precio": 9.95
         }
-
     
    ]
 }
