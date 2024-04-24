@@ -4,32 +4,32 @@
 "clasificacion": " LMC1 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC1.jpg?raw=true ",
 "nombre" : " Zayin Short Azul ",
-"precio" : 4.000
+"precio" : 2000
 },
 {
 "clasificacion": " LMC2 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC2.jpg?raw=true ",
 "nombre" : " Zayin Shorts ",
-"precio": 2.000
+"precio": 4000
             
 },
 {
 "clasificacion": " LMC3 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC4.png?raw=true ",
 "nombre" : " Pastel de Cangrejo ",
-"precio": 7.95
+"precio": 7000
 },
 {
-"clasificacion": " playaa ",
+"clasificacion": " LMC4 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC4.png?raw=true ",
 "nombre" : " Zayin Short Negos ",
-"precio": 2.000
+"precio": 2,000
 },
 {
-"clasificacion": " playaa ",
+"clasificacion": " LMC5 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC4.png?raw=true ",
 "nombre" : " Zayin Short Blancos ",
-"precio" : 4.000
+"precio" : 4,000
 }
 
     
