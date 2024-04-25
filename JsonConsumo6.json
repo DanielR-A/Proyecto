@@ -4,20 +4,20 @@
 "clasificacion": " LMC1 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC1.jpg?raw=true ",
 "nombre" : " Zayin Short Azul ",
-"precio" : 2.000
+"precio" : $2000
 },
 {
 "clasificacion": " LMC2 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC2.jpg?raw=true ",
 "nombre" : " Zayin Shorts ",
-"precio": 4.000
+"precio": 4000
             
 },
 {
 "clasificacion": " LMC3 ",
 "imagen" : " https://github.com/DanielR-A/Proyecto/blob/main/img/LMC4.png?raw=true ",
 "nombre" : " Pastel de Cangrejo ",
-"precio": 7000
+"precio": 7.000
 },
 {
 "clasificacion": " LMC4 ",
